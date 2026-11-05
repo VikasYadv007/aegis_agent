@@ -1,0 +1,14 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Aegis local data and API keys
+aegis_config.json
+aegis_history.json
+aegis_undo_log.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+testapp.py
