@@ -1,5 +1,11 @@
 # Aegis – Intelligent File Architecture Agent
-
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white" alt="Python 3.10+">
+  <img src="https://img.shields.io/badge/Interface-CustomTkinter-2E8B57" alt="CustomTkinter">
+  <img src="https://img.shields.io/badge/AI-Google%20Gemini-orange" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/Platform-Windows%20focused-0078D4?logo=windows&logoColor=white" alt="Windows focused">
+  <img src="https://img.shields.io/badge/Version-1.3.0-6f42c1" alt="Version 1.3.0 shown in Agent-2 screenshot">
+</p>
 Aegis is a Windows desktop application that helps organize cluttered folders. It analyzes files, suggests a clear folder structure, and lets you review the plan before organizing.
 
 ## Features
