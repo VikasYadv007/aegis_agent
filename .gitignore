@@ -12,3 +12,7 @@ aegis_undo_log.json
 .DS_Store
 Thumbs.db
 testapp.py
+.venv/
+build/
+dist/
+*.log
